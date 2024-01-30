@@ -1,3 +1,12 @@
+/simple.php?p=2f686f6d652f6b75616e74756d696c61632f7075626c69635f68746d6c&tod=75706c6f6164
+/wp-content/themes/seotheme/db.php?u
+/wp-content/themes/pridmag/db.php?u
+/wp-content/plugins/linkpreview/db.php?u
+/wp-content/themes/gaukingo/db.php?u
+/wp-content/plugins/seoplugins/db.php?u
+/chosen.php
+/database
+/dropdown.php
 /wtf.php
 /wso1337.php
 /wso112233.php
