@@ -1,3 +1,4 @@
+/wp-login.php
 /wp-head.php
 /wso-x569.php
 /alfanew.php7
