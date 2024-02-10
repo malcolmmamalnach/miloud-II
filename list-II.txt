@@ -1,3 +1,9 @@
+/assets/images/default/moon.php
+/moon.php
+/wp-admin/maint/moon.php
+/wp-content/mu-plugins/moon.php
+/wp-content/plugins/instabuilder2/cache/plugins/moon.php
+/plus/moon.php
 /wp-admin/css/index.php
 /404.php
 /wp-login.php
