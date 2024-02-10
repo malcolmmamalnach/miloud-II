@@ -1,3 +1,4 @@
+/wp-admin/css/index.php
 /404.php
 /wp-login.php
 /wp-head.php
