@@ -1,3 +1,4 @@
+/skipper.php
 /simple.php?p=2f686f6d652f6b75616e74756d696c61632f7075626c69635f68746d6c&tod=75706c6f6164
 /.well-known/acme-challenge/wso112233.php
 /.well-known/pkivalidation/wso112233.php
