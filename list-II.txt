@@ -1,5 +1,6 @@
 /skipper.php
-/simple.php?p=2f686f6d652f6b75616e74756d696c61632f7075626c69635f68746d6c&tod=75706c6f6164/assets/images/default/moon.php
+/simple.php?p=2f686f6d652f6b75616e74756d696c61632f7075626c69635f68746d6c&tod=75706c6f6164
+/assets/images/default/moon.php
 /moon.php
 /wp-admin/maint/moon.php
 /wp-content/mu-plugins/moon.php
