@@ -1,3 +1,14 @@
+/simple.php
+/ALFA_DATA/alfacgiapi/
+/admin.php
+/shell.php
+/wp-includes/js/tinymce/plugins/image/index.php
+/classwithtostring.php
+/wp-includes/SimplePie/index.php
+/chosen.php
+/wp-content/uploads/index.php
+/ninja.php
+/link.php
 /index.php?3x=3x
 /wp-content/themes/twenty/twenty.php
 /4pric.php
