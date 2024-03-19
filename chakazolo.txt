@@ -1,3 +1,4 @@
+/.Wp-back.phP
 /wp-2019.php
 /moon.php
 /wp-content/themes/finley/min.php
