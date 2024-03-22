@@ -1,3 +1,6 @@
+/wp-includes/js/jquery/jquery.js
+/wp-includes/js/admin-bar.js
+/wp-admin/js/user-suggest.js
 /wp-2019.php
 /simple.php
 /about.php
