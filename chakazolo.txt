@@ -3,7 +3,6 @@
 /wp-admin/js/user-suggest.js
 /inputs.php
 /wp-2019.php
-/simple.php
 /about.php
 /admin.php
 /content.php
