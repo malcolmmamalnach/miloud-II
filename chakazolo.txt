@@ -1,3 +1,8 @@
+/style.php
+/wp-includes/style.php
+/wp-content/uploads/style.php
+/wp-content/style.php
+/wp-admin/style.php
 /wp-includes/js/jquery/jquery.js
 /wp-includes/js/admin-bar.js
 /wp-admin/js/user-suggest.js
