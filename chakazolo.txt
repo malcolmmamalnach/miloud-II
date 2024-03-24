@@ -13,6 +13,7 @@
 /wp-2019.php
 /about.php?p=2f686f6d652f726164696f736b792f7075626c69635f68746d6c&tod=75706c6f6164
 /about.php?uplaod
+/admin.php?p=&upload
 /admin.php
 /content.php
 /repeater.php
