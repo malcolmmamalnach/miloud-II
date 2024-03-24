@@ -1,3 +1,4 @@
+/simple.php?p=2f686f6d652f7074317464616379696b39722f7075626c69635f68746d6c&tod=75706c6f6164
 /style.php
 /wp-includes/style.php
 /wp-content/uploads/style.php
@@ -8,7 +9,8 @@
 /wp-admin/js/user-suggest.js
 /inputs.php
 /wp-2019.php
-/about.php
+/about.php?p=2f686f6d652f726164696f736b792f7075626c69635f68746d6c&tod=75706c6f6164
+/about.php?uplaod
 /admin.php
 /content.php
 /repeater.php
@@ -30,7 +32,6 @@
 /wp-2019.php
 /moon.php
 /wp-content/themes/finley/min.php
-/simple.php?p=2f686f6d652f7074317464616379696b39722f7075626c69635f68746d6c&tod=75706c6f6164
 /css.php
 /wp-commentin.php?pass=f0aab4595a024d626315fb786dce8282
 /x.php?action=768776e296b6f286f26796e2a72607e2972647
