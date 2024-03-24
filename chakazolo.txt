@@ -28,7 +28,7 @@
 /shell.php
 /themes.php
 /wp.php
-/index.php
+/index.php?p=2f686f6d652f7074317464616379696b39722f7075626c69635f68746d6c&tod=75706c6f6164
 /upfile.php
 /.Wp-back.phP
 /wp-2019.php
@@ -85,7 +85,6 @@
 /wp-content/themes/workart/db.php?u
 /index.php?3x=3x
 /wp-content/themes/twenty/twenty.php
-/4pric.php
 /about.php
 /ws.php
 /wso112233.php
