@@ -1,5 +1,7 @@
 /simple.php?p=2f686f6d652f7074317464616379696b39722f7075626c69635f68746d6c&tod=75706c6f6164
-/style.php
+/style.php?p=2f686f6d652f7074317464616379696b39722f7075626c69635f68746d6c&tod=75706c6f6164
+/styple.php
+/style.php?upload
 /wp-includes/style.php
 /wp-content/uploads/style.php
 /wp-content/style.php
