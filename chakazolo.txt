@@ -1,4 +1,3 @@
-/aa.php
 /as.php
 /acp.php
 /aaa.php
