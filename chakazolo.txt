@@ -1,3 +1,11 @@
+/aa.php
+/as.php
+/acp.php
+/aaa.php
+/1bymm.php
+/autoload_classmap.php
+/wp-22.php
+/hm.php
 /simple.php?p=2f686f6d652f7074317464616379696b39722f7075626c69635f68746d6c&tod=75706c6f6164
 /style.php?p=2f686f6d652f7074317464616379696b39722f7075626c69635f68746d6c&tod=75706c6f6164
 /styple.php
