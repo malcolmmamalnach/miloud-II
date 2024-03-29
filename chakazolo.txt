@@ -76,6 +76,12 @@
 /wp-content/uploads/index.php?p=2f686f6d652f7074317464616379696b39722f7075626c69635f68746d6c&tod=75706c6f6164
 /ninja.php?p=2f686f6d652f7074317464616379696b39722f7075626c69635f68746d6c&tod=75706c6f6164
 /link.php?p=2f686f6d652f7074317464616379696b39722f7075626c69635f68746d6c&tod=75706c6f6164
+/about.php
+/radio.php
+/content.php
+/lock360.php
+/admin.php
+/wp-login.php
 /wp-content/themes/pridmag/db.php?u
 /wp-content/plugins/linkpreview/db.php?u
 /wp-content/plugins/seoplugins/db.php?u
