@@ -1,3 +1,4 @@
+/wp-info.php
 /inputs.php
 /cong.php
 /simple.php?p=2f686f6d652f7074317464616379696b39722f7075626c69635f68746d6c&tod=75706c6f6164
