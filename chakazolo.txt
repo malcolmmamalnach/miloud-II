@@ -1,3 +1,4 @@
+/alfanew.php7
 /wp-info.php
 /inputs.php
 /cong.php
