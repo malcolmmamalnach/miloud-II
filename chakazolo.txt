@@ -1,3 +1,4 @@
+/wp-ver.php
 /inc.php
 /inputs.php
 /atomlib.php
