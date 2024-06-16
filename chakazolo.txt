@@ -103,7 +103,6 @@
 /wp-content/themes/rishi/db.php?u
 /wp-content/themes/skatepark/db.php?u
 /wp-content/themes/workart/db.php?u
-/index.php?3x=3x
 /wp-content/themes/twenty/twenty.php
 /about.php
 /ws.php
