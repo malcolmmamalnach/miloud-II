@@ -84,7 +84,7 @@
 /wp-content/plugins/seoplugins/db.php?u
 /wp-content/themes/gaukingo/db.php?u
 /wp-content/themes/seotheme/db.php?u
-/chosen.php?upload
+/chosen.php
 /db.php?u
 /wp-content/outcms.php?up
 /wp-content/plugins/db/uploader.php?uploader
