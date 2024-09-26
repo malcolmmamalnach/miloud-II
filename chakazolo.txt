@@ -3,7 +3,7 @@
 /admin.php
 /about.php
 /shell.php
-/chosen.php
+/chosen.php?p=&upload
 /simple.php
 /inputs.php
 /wp-includes/rest-api/fields/cache/simple.php
