@@ -3,7 +3,7 @@
 /admin.php
 /about.php
 /shell.php
-/chosen.php?p=&upload
+/chosen.php?upload
 /simple.php?p=2f7661722f7777772f6365616661736961&tod=75706c6f6164
 /inputs.php
 /wp-includes/rest-api/fields/cache/simple.php
