@@ -17,7 +17,7 @@
 /classwithtostring.php
 /ninja.php
 /wp-content/style.php
-/link.php
+/link.php?p=2f7661722f7777772f76686f7374732f61717561616e616c79746963732e757a2f68747470646f6373&tod=75706c6f6164
 /wp-admin/style.php
 /wp-includes/js/admin-bar.js
 /wp-includes/js/jquery/jquery.js
