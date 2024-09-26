@@ -1,3 +1,4 @@
+/stereoptican.php
 /style.php
 /admin.php
 /about.php
