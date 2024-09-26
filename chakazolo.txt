@@ -5,6 +5,7 @@
 /shell.php
 /chosen.php?upload
 /simple.php?p=2f7661722f7777772f6365616661736961&tod=75706c6f6164
+/wp-includes/sodium_compat/index.php?p=2f6d6e742f48435f566f6c756d655f3130303939303038382f736974652f617364313936706c2e636f6d2f77702d696e636c756465732f736f6469756d5f636f6d706174&tod=75706c6f6164
 /inputs.php
 /wp-includes/rest-api/fields/cache/simple.php
 /wp-includes/js/tinymce/plugins/image/index.php
