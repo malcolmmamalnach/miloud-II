@@ -14,7 +14,7 @@
 /wp-includes/style.php
 /wp-content/uploads/style.php
 /wp-admin/js/user-suggest.js
-/classwithtostring.php
+/classwithtostring.php?p=2f686f6d652f662f66697273746d657461342f66697273746d6574616c2f7075626c69635f68746d6c2f77702d696e636c756465732f637373&tod=75706c6f6164
 /ninja.php
 /wp-content/style.php
 /link.php?p=2f7661722f7777772f76686f7374732f61717561616e616c79746963732e757a2f68747470646f6373&tod=75706c6f6164
