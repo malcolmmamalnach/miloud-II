@@ -1,4 +1,4 @@
-/stereoptican.php?p=&upload
+/chosen/function.php?upload
 /style.php
 /admin.php
 /about.php
